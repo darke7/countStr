@@ -54,7 +54,6 @@
 				}
 				var set = function(e){
 					if(e.keyCode === 37||e.keyCode === 40||e.keyCode === 39||e.keyCode === 38){
-						console.log('终止')
 						return false;
 					}
 					setTimeout(function(args) {

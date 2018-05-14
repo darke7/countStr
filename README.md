@@ -16,9 +16,9 @@ countStr
 </div>
 
 3.使用countStr函数
-<script>
-	$('xx').countStr({length:'30',input:'input',zishu:'span'})
-</script>
-length:要限制的字数，可以不写
-input:div下要检测的input
-zishu:用于显示的标签
+<script><br>
+	$('xx').countStr({length:'30',input:'input',zishu:'span'})<br>
+</script><br>
+length:要限制的字数，可以不写<br>
+input:div下要检测的input<br>
+zishu:用于显示的标签<br>

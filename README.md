@@ -17,7 +17,7 @@ countStr
 
 3.使用countStr函数
 <script><br>
-	$('xx').countStr({length:'30',input:'input',zishu:'span'})<br>
+>>('xx').countStr({length:'30',input:'input',zishu:'span'})<br>
 </script><br>
 length:要限制的字数，可以不写<br>
 input:div下要检测的input<br>
